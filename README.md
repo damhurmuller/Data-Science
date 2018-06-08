@@ -8,4 +8,4 @@ Repositório destinado aos projetos de Data Science
 * Probability and statistic
 * Kaggle
 * Machine Learning
-* Data engineering (Postgresql): Minimize data foorprint, chunk processing, multi-threading\processing
+* Data engineering (Postgresql)
