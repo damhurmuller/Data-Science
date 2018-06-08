@@ -8,5 +8,5 @@ Repositório destinado aos projetos de Data Science
 * Probability and statistic
 * Kaggle
 * Machine Learning
-* Database: SQLite, Postgresql
+* Database: SQLite
 * Data engineering (Postgresql)
