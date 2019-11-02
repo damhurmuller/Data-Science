@@ -1,7 +1,7 @@
 # Data-Science
-Repositório destinado aos projetos de Data Science
+Repository for Data Science projects
 
-# Do que se trata?
+# What is about?
 * Data Analysis
 * Data Visualization
 * Data Cleaning
