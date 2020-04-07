@@ -1,5 +1,5 @@
 # Data-Science
-Repository for Data Science projects
+Repository of the DataQuest Projects
 
 # What is about?
 * Data Analysis
